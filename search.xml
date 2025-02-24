@@ -18,4 +18,17 @@
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>电子电路活用篇</title>
+    <url>/2025/02/24/%E6%88%91%E7%9A%84%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h3 id="1-1-电源、电路、电压、电流"><a href="#1-1-电源、电路、电压、电流" class="headerlink" title="1-1 电源、电路、电压、电流"></a>1-1 电源、电路、电压、电流</h3><p>电源、电路、电压、电流，是了解电子电路时必须知道的基础知识，由于肉眼看不到电，因此在讲解中会大量用到水压、水流等日常生活中常常接触到的经验，模拟不容易观察到的各种电流现象。</p>
+<h4 id="电源"><a href="#电源" class="headerlink" title="电源"></a>电源</h4><p>人的心脏将血液输送到身体各个部位之后回到心脏，电源也扮演着一样的角色，将电加压后输送到电路各处。<br>常见的电源有电池、电源供应器、USB插座等等。<br>物理中常常使用到右图代表着电源的电路符号，其中长线为正、短线为负。<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/img/test.png"
+                      alt="Test"
+                ></p>
+<h4 id="电路"><a href="#电路" class="headerlink" title="电路"></a>电路</h4><p>电路就是电流通行的路径，是个封闭的迴路（电路图中从正极到负极中间没有断开的线路）。电路中是由导电体，例如电线、焊锡、磁针等金属构成，让电流导通，流经各种电子元件如电池、LED灯、电阻、感测器等，产生作用以达到我们想要的功能。<br>断路则代表电路中有地方断掉不连通，以致电路中的电流无法流过，电子元件将无法作用。 </p>
+]]></content>
+  </entry>
 </search>
